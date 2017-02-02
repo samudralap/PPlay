@@ -1,5 +1,6 @@
 //TestComment3
 //Adding line for conflict
+//newCommentforFun
 public Class A0
 {
 public Account CreateRecord(String name)  //method to create Account
